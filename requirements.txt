@@ -1,0 +1,2 @@
+whatlies[spacy]==0.6.5
+jupyterlab==3.2.7
